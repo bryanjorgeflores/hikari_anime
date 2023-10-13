@@ -1,12 +1,12 @@
 [{
   "build_number": 28,
-  "isReleased": false
+  "isReleased": true
 },{
   "build_number": 27,
-  "isReleased": false
+  "isReleased": true
 },{
   "build_number": 26,
-  "isReleased": false
+  "isReleased": true
 },{
   "build_number": 25,
   "isReleased": true
