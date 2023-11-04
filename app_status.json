@@ -1,9 +1,9 @@
 [{
   "build_number": 36,
-  "isReleased": false
+  "isReleased": true
 },{
   "build_number": 35,
-  "isReleased": false
+  "isReleased": true
 },{
   "build_number": 34,
   "isReleased": true
