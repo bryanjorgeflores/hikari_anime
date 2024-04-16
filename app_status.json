@@ -1,4 +1,7 @@
 [{
+  "build_number": 42,
+  "isReleased": false
+},{
   "build_number": 41,
   "isReleased": false
 },{
