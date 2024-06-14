@@ -1,5 +1,9 @@
 [{
   "build_number": 48,
+  "isReleased": true,
+  "downloadLink":"https://www.mediafire.com/file/b4v6zs9b94m9lbf/app-release.apk/file"
+},{
+  "build_number": 48,
   "isReleased": true
 },{
   "build_number": 46,
