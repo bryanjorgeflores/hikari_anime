@@ -1,75 +1,98 @@
 [
- {
-  "name": "1.6.4 + 54",
-  "build_number": 54,
-  "isReleased": true,
-  "downloadLink":"https://www.mediafire.com/file/nhamwh2w1wsh51s/Hikari_Anime_1.6.4%252B54.apk/file"
-}, {
-  "name": "1.6.3 + 53",
-  "build_number": 53,
-  "isReleased": true,
-  "downloadLink":"https://www.mediafire.com/file/b4v6zs9b94m9lbf/app-release.apk/file"
-},{
-  "build_number": 48,
-  "isReleased": true
-},{
-  "build_number": 46,
-  "isReleased": true
-},{
-  "build_number": 45,
-  "isReleased": true
-},{
-  "build_number": 44,
-  "isReleased": true
-},{
-  "build_number": 43,
-  "isReleased": true
-},{
-  "build_number": 42,
-  "isReleased": true
-},{
-  "build_number": 41,
-  "isReleased": true
-},{
-  "build_number": 39,
-  "isReleased": true
-},{
-  "build_number": 38,
-  "isReleased": true
-},{
-  "build_number": 37,
-  "isReleased": true
-},{
-  "build_number": 36,
-  "isReleased": true
-},{
-  "build_number": 35,
-  "isReleased": true
-},{
-  "build_number": 34,
-  "isReleased": true
-},{
-  "build_number": 32,
-  "isReleased": true
-},{
-  "build_number": 30,
-  "isReleased": true
-},{
-  "build_number": 29,
-  "isReleased": true
-},{
-  "build_number": 18,
-  "isReleased": true
-},{
-  "build_number": 17,
-  "isReleased": true
-},{
-  "build_number": 16,
-  "isReleased": true
-},{
-  "build_number": 15,
-  "isReleased": true
-},{
-  "build_number": 14,
-  "isReleased": true
-}]
+  {
+    "name": "1.6.4 + 54",
+    "build_number": 54,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/nhamwh2w1wsh51s/Hikari_Anime_1.6.4%252B54.apk/file"
+  },
+  {
+    "name": "1.6.3 + 53",
+    "build_number": 53,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/b4v6zs9b94m9lbf/app-release.apk/file"
+  },
+  {
+    "build_number": 48,
+    "isReleased": true
+  },
+  {
+    "build_number": 46,
+    "isReleased": true
+  },
+  {
+    "build_number": 45,
+    "isReleased": true
+  },
+  {
+    "build_number": 44,
+    "isReleased": true
+  },
+  {
+    "build_number": 43,
+    "isReleased": true
+  },
+  {
+    "build_number": 42,
+    "isReleased": true
+  },
+  {
+    "build_number": 41,
+    "isReleased": true
+  },
+  {
+    "build_number": 39,
+    "isReleased": true
+  },
+  {
+    "build_number": 38,
+    "isReleased": true
+  },
+  {
+    "build_number": 37,
+    "isReleased": true
+  },
+  {
+    "build_number": 36,
+    "isReleased": true
+  },
+  {
+    "build_number": 35,
+    "isReleased": true
+  },
+  {
+    "build_number": 34,
+    "isReleased": true
+  },
+  {
+    "build_number": 32,
+    "isReleased": true
+  },
+  {
+    "build_number": 30,
+    "isReleased": true
+  },
+  {
+    "build_number": 29,
+    "isReleased": true
+  },
+  {
+    "build_number": 18,
+    "isReleased": true
+  },
+  {
+    "build_number": 17,
+    "isReleased": true
+  },
+  {
+    "build_number": 16,
+    "isReleased": true
+  },
+  {
+    "build_number": 15,
+    "isReleased": true
+  },
+  {
+    "build_number": 14,
+    "isReleased": true
+  }
+]
