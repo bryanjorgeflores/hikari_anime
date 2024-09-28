@@ -1,4 +1,9 @@
 [{
+    "name": "Windows 1.4",
+    "build_number": 3,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/1489r6ixteg6wvi/Hikari_Anime_Windows_1.3.exe/file"
+  },{
     "name": "Windows 1.3",
     "build_number": 2,
     "isReleased": true,
