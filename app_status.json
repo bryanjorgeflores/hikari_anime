@@ -1,4 +1,9 @@
 [{
+    "name": "1.7.5 + 62",
+    "build_number": 62,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/jp1egzuywdqpinb/Hikari_Anime_1.7.5%252B62.apk/file"
+  },{
     "name": "1.7.3 + 60",
     "build_number": 60,
     "isReleased": true,
