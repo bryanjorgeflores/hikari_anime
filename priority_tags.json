@@ -1,4 +1,42 @@
 {
-  "downloadPriority":{"swhoi":1,"swdyu":3,"embedwish":1,"sfastwish":1,"wishfast":1,"yourupload":1,"mp4upload":2,"streamtape":0,"stape":0,"voe":0,"mediafire":0,"ok":3},
-  "viewPriority": {"sw":1,"swhoi":1,"swdyu":3,"embedwish":1,"sfastwish":1,"wishfast":1,"yourupload":1,"yupi":1,"mp4upload":2,"streamtape":2,"stape":2,"voe":2,"ok":3,"okru":3,"ru":3,"maru":3,"sendvid":3,"uqload":3,"mediafire":3,"burst":4}
+  "downloadPriority": {
+    "swhoi": 3,
+    "swdyu": 3,
+    "embedwish": 3,
+    "sfastwish": 3,
+    "wishfast": 3,
+    "yourupload": 1,
+    "mp4upload": 0,
+    "streamtape": 1,
+    "stape": 1,
+    "voe": 0,
+    "mediafire": 0,
+    "ok": 3,
+    "moon": 1,
+    "your": 1
+  },
+  "viewPriority": {
+    "sw": 1,
+    "swhoi": 1,
+    "swdyu": 3,
+    "embedwish": 1,
+    "sfastwish": 1,
+    "wishfast": 1,
+    "moon": 1,
+    "your": 1,
+    "yourupload": 1,
+    "yupi": 1,
+    "mp4upload": 2,
+    "streamtape": 2,
+    "stape": 2,
+    "voe": 2,
+    "ok": 3,
+    "okru": 3,
+    "ru": 3,
+    "maru": 3,
+    "sendvid": 3,
+    "uqload": 3,
+    "mediafire": 3,
+    "burst": 4
+  }
 }
