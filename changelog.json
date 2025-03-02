@@ -1,5 +1,13 @@
 [
     {
+        "id": 2,
+        "title": "¿Te gustaría ayudarnos a mejorar?",
+        "description": "Si tienes alguna sugerencia, reporte de error o simplemente quieres decirnos algo, no dudes en contactarnos. ¡Tu opinión es muy importante para nosotros!",
+        "actionUrl": "bryanjorgeflores@gmail.com",
+        "action": "send_email",
+        "actionLabel": "Enviar correo"
+    },
+    {
         "id": 1,
         "title": "¿Disfrutas de nuestra aplicación?",
         "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Tu apoyo te permite tener tus listas guardadas en la nube y disfrutar de las actualizaciones constantes.",
