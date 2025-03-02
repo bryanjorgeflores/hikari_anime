@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "¿Disfrutas de nuestra aplicación?",
+        "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Tu apoyo te permite tener tus listas guardadas en la nube y disfrutar de las actualizaciones constantes.",
+        "actionUrl": "https://www.patreon.com/HikariAnime",
+        "action": "open_link",
+        "actionLabel": "Ir a Patreon"
+    }
+]
