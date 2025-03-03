@@ -4,7 +4,7 @@
         "title": "Reporta un Problema",
         "description": "Si encuentras algún problema o error en la aplicación, por favor repórtalo para que podamos solucionarlo lo antes posible.",
         "actionUrl": "/report",
-        "open_route": "report",
+        "action": "open_route",
         "actionLabel": "Reportar Problema",
         "isImportant": false
     },
