@@ -1,5 +1,14 @@
 [
     {
+        "id": 5,
+        "title": "Reporta un Problema",
+        "description": "Si encuentras algún problema o error en la aplicación, por favor repórtalo para que podamos solucionarlo lo antes posible.",
+        "actionUrl": "/report-error",
+        "action": "open_route",
+        "actionLabel": "Reportar Problema",
+        "isImportant": true
+    },
+    {
         "id": 4,
         "title": "Reporta un Problema",
         "description": "Si encuentras algún problema o error en la aplicación, por favor repórtalo para que podamos solucionarlo lo antes posible.",
