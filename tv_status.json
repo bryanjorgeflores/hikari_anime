@@ -1,4 +1,9 @@
 [{
+    "name": "1.8.0 + 64",
+    "build_number": 64,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/folder/8p1jigyci1gb8/Hikari+Anime+TV+1.8.0+-+64"
+  },{
     "name": "1.7.9 + 63",
     "build_number": 63,
     "isReleased": true,
