@@ -16,12 +16,12 @@
     "your": 1
   },
   "viewPriority": {
-    "sw": 1,
-    "swhoi": 1,
+    "sw": 0,
+    "swhoi": 0,
     "swdyu": 3,
-    "embedwish": 1,
-    "sfastwish": 1,
-    "wishfast": 1,
+    "embedwish": 0,
+    "sfastwish": 0,
+    "wishfast": 0,
     "moon": 1,
     "your": 1,
     "yourupload": 1,
