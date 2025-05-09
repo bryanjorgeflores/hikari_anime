@@ -1,5 +1,13 @@
 [
     {
+        "id": 3,
+        "title": "Ahora también en BuyMeACoffee",
+        "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Tu ayuda permite guardar tus listas en la nube y seguir disfrutando de actualizaciones constantes.",
+        "actionUrl": "https://buymeacoffee.com/hikarianimeapp",
+        "action": "open_link",
+        "actionLabel": "Ir a BuyMeACoffee",
+        "isImportant": false
+    }, {
         "id": 2,
         "title": "¿Disfrutas de nuestra aplicación?",
         "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Cerraron nuestra cuenta de Patreon, pero aún puedes apoyarnos en Ko-fi. Tu ayuda permite guardar tus listas en la nube y seguir disfrutando de actualizaciones constantes.",
