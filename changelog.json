@@ -1,5 +1,14 @@
 [
     {
+        "id": 4,
+        "title": "Nueva versión beta (click para descargar)",
+        "description": "¿Qué hay de nuevo?\n-Corrección del servidor JKAnime",
+        "actionUrl": "https://www.mediafire.com/folder/vwt0plbsw5h1z/1.8.4-beta+-+71",
+        "action": "open_link",
+        "actionLabel": "Descargar beta",
+        "isImportant": false
+    },
+    {
         "id": 3,
         "title": "Ahora también en BuyMeACoffee",
         "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Tu ayuda permite guardar tus listas en la nube y seguir disfrutando de actualizaciones constantes.",
