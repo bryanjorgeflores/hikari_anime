@@ -2,7 +2,7 @@
     {
         "id": 4,
         "title": "Nueva versión beta (click para descargar)",
-        "description": "¿Qué hay de nuevo?\n-Corrección del servidor JKAnime",
+        "description": "¿Qué hay de nuevo?\n-Corrección del servidor JKAnime\nRecuerda que esta versión podría ser inestable o tener fallas.",
         "actionUrl": "https://www.mediafire.com/folder/vwt0plbsw5h1z/1.8.4-beta+-+71",
         "action": "open_link",
         "actionLabel": "Descargar beta",
