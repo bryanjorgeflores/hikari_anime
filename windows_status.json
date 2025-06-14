@@ -1,4 +1,9 @@
 [{
+    "name": "Windows 1.8.2",
+    "build_number": 66,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/5p1za0xmsmf7nno/Hikari_anime_Windows_1.8.2.exe/file"
+  },{
     "name": "Windows 1.8.1",
     "build_number": 65,
     "isReleased": true,
