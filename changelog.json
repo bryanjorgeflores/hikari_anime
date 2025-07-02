@@ -1,14 +1,5 @@
 [
   {
-    "id": 5,
-    "title": "¡Gana una cuenta con acceso total! (Click para inscribirte)",
-    "description": "🎉 ¡Celebramos nuestro segundo aniversario!\nPara agradecer tu apoyo, sortearemos 10 cuentas con acceso completo a todos los apartados de la app por un año.\n\n📅 Fecha del sorteo: 21 de junio por Discord\n¡No te lo pierdas!",
-    "actionUrl": "https://forms.gle/aboeC9STzAYvBU996",
-    "action": "open_link",
-    "actionLabel": "Inscribirme",
-    "isImportant": false
-  },
-  {
     "id": 3,
     "title": "Ahora también en BuyMeACoffee",
     "description": "Recuerda que, por solo 1$, puedes mantener la app actualizada y sin publicidad. Tu ayuda permite guardar tus listas en la nube y seguir disfrutando de actualizaciones constantes.",
