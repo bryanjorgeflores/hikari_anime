@@ -1,2 +1,3 @@
 madurird
 intent://
+syndication
