@@ -1,2 +1,2 @@
-.*madurird\\.com.*
-.*intent://.*
+madurird
+intent://
