@@ -6,6 +6,6 @@
     "actionUrl": "https://ko-fi.com/hikarianime",
     "action": "open_link",
     "actionLabel": "Ir a Ko-fi",
-    "isImportant": true
+    "isImportant": false
   }
 ]
