@@ -1,89 +1,113 @@
-[{
+[
+  {
+    "name": "1.8.8 + 75",
+    "build_number": 75,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/yo2b8i4gl0qg0b7/Hikari_Anime_1.8.8%252B75.apk/file"
+  },
+  {
     "name": "1.8.7 + 74",
     "build_number": 74,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/ab2w64vi99amict/Hikari_Anime_1.8.7%252B74.apk/file"
-  },{
+  },
+  {
     "name": "1.8.6 + 73",
     "build_number": 73,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/grnvyaidf0rs09i/Hikari_Anime_1.8.6%252B73.apk/file"
-  },{
+  },
+  {
     "name": "1.8.5 + 72",
     "build_number": 72,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/4iz2pvdvoqxy6x8/Hikari_Anime_1.8.5%252B72.apk/file"
-  },{
+  },
+  {
     "name": "1.8.4 + 71",
     "build_number": 71,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/v6fhqzxm2uhiq09/Hikari_Anime_1.8.4%252B71.apk/file"
-  },{
+  },
+  {
     "name": "1.8.2 + 69",
     "build_number": 69,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/olx02bnb3fb5ur7/Hikari_Anime_1.8.2%252B69.apk/file"
-  },{
+  },
+  {
     "name": "1.8.1 + 68",
     "build_number": 68,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/2qo9siyehb3n1rb/Hikari_Anime_1.8.1%252B68.apk/file"
-  },{
+  },
+  {
     "name": "1.8.0 + 67",
     "build_number": 67,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/vcy44t0t7wgvf0e/Hikari_Anime_1.8.0%252B67.apk/file"
-  },{
+  },
+  {
     "name": "1.7.9 + 66",
     "build_number": 66,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/j6kmjf2jpcreyfc/Hikari_Anime_1.7.9_%252B_66.apk/file"
-  },{
+  },
+  {
     "name": "1.7.8 + 65",
     "build_number": 65,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/4jfe6dg9m3w0mw6/Hikari_Anime_1.7.8_%252B_65.apk/file"
-  },{
+  },
+  {
     "name": "1.7.7 + 64",
     "build_number": 64,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/pyjk1l0e3cnfsie/Hikari_Anime_1.7.7%252B64.apk/file"
-  },{
+  },
+  {
     "name": "1.7.5 + 63",
     "build_number": 63,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/a6pimd2tk2q27sa/Hikari_Anime_1.7.5%252B63.apk/file"
-  },{
+  },
+  {
     "name": "1.7.5 + 62",
     "build_number": 62,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/jp1egzuywdqpinb/Hikari_Anime_1.7.5%252B62.apk/file"
-  },{
+  },
+  {
     "name": "1.7.3 + 60",
     "build_number": 60,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/fmqnirvnkgl8qcm/Hikari_Anime_1.7.3%252B60.apk/file"
-  },{
+  },
+  {
     "name": "1.7.2 + 59",
     "build_number": 59,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/ok77bqsdlg0y2wv/Hikari_Anime_1.7.2%252B59.apk/file"
-  },{
+  },
+  {
     "name": "1.7.1 + 58",
     "build_number": 58,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/ildyqk2m4lrqbku/Hikari_Anime_1.7.1%252B58.apk/file"
-  },{
+  },
+  {
     "name": "1.7.0 + 57",
     "build_number": 57,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/nclvh08c9lpve2t/Hikari_Anime_1.7.0%252B57.apk/file"
-  },{
+  },
+  {
     "name": "1.6.6 + 56",
     "build_number": 56,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/8jvp5kq0mn0353a/Hikari_Anime_1.6.6%252B56.apk/file"
-  },{
+  },
+  {
     "name": "1.6.5 + 55",
     "build_number": 55,
     "isReleased": true,
