@@ -1,95 +1,126 @@
-[{
+[
+  {
+    "name": "1.9.2 + 79",
+    "build_number": 79,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/h5w1pu6l1itnfdq/Hikari_Anime_1.9.2%252B79.apk/file"
+  },
+  {
     "name": "1.8.3 + 67",
     "build_number": 67,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/l7sz20e6jub7z/Hikar+Anime+TV+1.8.3+-+67"
-  },{
+  },
+  {
     "name": "1.8.2 + 66",
     "build_number": 66,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/6w381rs9txlmd/Hikari+Anime+TV+1.8.2+-+66"
-  },{
+  },
+  {
     "name": "1.8.1 + 65",
     "build_number": 65,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/zrx6k2vlfx5ec/Hikari+Anime+TV+1.8.1+-+65"
-  },{
+  },
+  {
     "name": "1.8.0 + 64",
     "build_number": 64,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/8p1jigyci1gb8/Hikari+Anime+TV+1.8.0+-+64"
-  },{
+  },
+  {
     "name": "1.7.9 + 63",
     "build_number": 63,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/darxfq76gqzq6/Hikari+Anime+TV+1.7.9+-+63"
-  },{
+  },
+  {
     "name": "1.7.8 + 62",
     "build_number": 62,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/ptfl8fen6nt6a/Hikari+Anime+TV+v1.7.8+-+62"
-  },{
+  },
+  {
     "name": "1.7.7 + 61",
     "build_number": 61,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/x49tgeklftrgt/Hikari+Anime+TV+v1.7.7+61"
-  },{
+  },
+  {
     "name": "1.7.4 + 58",
     "build_number": 58,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/folder/s4eqzzpuwdnxl/Hikari+Anime+TV+v1.7.4+58"
-  },{
+  },
+  {
     "name": "1.7.3 + 57",
     "build_number": 57,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/2crxckkmwmte4mk/Hikari_Anime_TV_v1.7.3%252B57.apk/file"
-  },{
+  },
+  {
     "name": "1.7.2 + 56",
     "build_number": 56,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/9ubgyf4tfst4abp/Hikari_Anime_TV_v1.7.2%252B56.apk/file"
-  },{
+  },
+  {
     "name": "1.7.1 + 55",
     "build_number": 55,
     "isReleased": true,
     "downloadLink": "https://www.mediafire.com/file/zzdvnfgv8h8f2dd/Hikari_Anime_TV_v1.7.1%252B55.apk/file"
-  },{
-  "build_number": 40,
-  "isReleased": true
-},{
-  "build_number": 36,
-  "isReleased": true
-},{
-  "build_number": 33,
-  "isReleased": true
-},{
-  "build_number": 31,
-  "isReleased": true
-},{
-  "build_number": 28,
-  "isReleased": true
-},{
-  "build_number": 27,
-  "isReleased": true
-},{
-  "build_number": 26,
-  "isReleased": true
-},{
-  "build_number": 25,
-  "isReleased": true
-},{
-  "build_number": 24,
-  "isReleased": true
-},{
-  "build_number": 23,
-  "isReleased": true
-},{
-  "build_number": 22,
-  "isReleased": true
-},{
-  "build_number": 21,
-  "isReleased": true
-},{
-  "build_number": 20,
-  "isReleased": true
-}]
+  },
+  {
+    "build_number": 40,
+    "isReleased": true
+  },
+  {
+    "build_number": 36,
+    "isReleased": true
+  },
+  {
+    "build_number": 33,
+    "isReleased": true
+  },
+  {
+    "build_number": 31,
+    "isReleased": true
+  },
+  {
+    "build_number": 28,
+    "isReleased": true
+  },
+  {
+    "build_number": 27,
+    "isReleased": true
+  },
+  {
+    "build_number": 26,
+    "isReleased": true
+  },
+  {
+    "build_number": 25,
+    "isReleased": true
+  },
+  {
+    "build_number": 24,
+    "isReleased": true
+  },
+  {
+    "build_number": 23,
+    "isReleased": true
+  },
+  {
+    "build_number": 22,
+    "isReleased": true
+  },
+  {
+    "build_number": 21,
+    "isReleased": true
+  },
+  {
+    "build_number": 20,
+    "isReleased": true
+  }
+]
