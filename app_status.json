@@ -1,12 +1,5 @@
 [
-  {
-    "name": "1.9.2+79",
-    "version": "1.9.2",
-    "build_number": 79,
-    "is_beta": true,
-    "isReleased": false,
-    "downloadLink": "https://"
-  },
+ 
   {
     "name": "1.9.2 + 79",
     "build_number": 79,
