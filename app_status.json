@@ -1,10 +1,10 @@
 [
- 
   {
-    "name": "1.9.2 + 79",
+    "name": "1.9.2+79",
+    "version": "1.9.2",
     "build_number": 79,
     "isReleased": true,
-    "downloadLink": "https://www.mediafire.com/file/h5w1pu6l1itnfdq/Hikari_Anime_1.9.2%252B79.apk/file"
+    "downloadLink": "https://www.hikarianime.es"
   },
   {
     "name": "1.9.1 + 78",
