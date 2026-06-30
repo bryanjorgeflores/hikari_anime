@@ -1,5 +1,14 @@
 [
   {
+    "id": 7,
+    "title": "BETA: Solución temporal a los links de AnimeFLV",
+    "description": "Si estás teniendo problemas con los links de AnimeFLV, puedes probar esta solución temporal. Ten en cuenta que es una versión beta y puede no funcionar correctamente.",
+    "actionUrl": "https://www.mediafire.com/file/p4quht88vrsgnwl/Hikari_Anime_1.9.5%252B82.apk/file",
+    "action": "open_link",
+    "actionLabel": "Probar solución beta",
+    "isImportant": false
+  },
+  {
     "id": 6,
     "title": "¿No sabes qué ver?",
     "description": "Mira los animes que están por estrenarse y que la gente ya está esperando. Puede que encuentres tu próximo favorito antes de que salga.",
