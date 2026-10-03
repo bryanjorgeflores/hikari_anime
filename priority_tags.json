@@ -22,6 +22,8 @@
     "embedwish": 0,
     "sfastwish": 0,
     "wishfast": 0,
+    "upnshare": 3,
+    "byseraguci": 1,
     "moon": 1,
     "your": 1,
     "yourupload": 1,
@@ -29,14 +31,15 @@
     "mp4upload": 4,
     "streamtape": 2,
     "stape": 2,
-    "voe": 2,
+    "voe": 3,
     "ok": 3,
     "okru": 3,
     "ru": 3,
     "maru": 3,
     "sendvid": 3,
     "uqload": 3,
-    "mediafire": 3,
-    "burst": 4
+    "mediafire": 0,
+    "burst": 4,
+    "pixeldrain": 4
   }
 }
