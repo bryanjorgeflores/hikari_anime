@@ -1,5 +1,12 @@
 [
   {
+    "name": "1.9.12+89",
+    "version": "1.9.12",
+    "build_number": 89,
+    "isReleased": true,
+    "downloadLink": "https://www.mediafire.com/file/3e63cixxoaz5g62/Hikari_Anime_1.9.12%252B89.apk/file"
+  },
+  {
     "name": "1.9.11+88",
     "version": "1.9.11",
     "build_number": 88,
